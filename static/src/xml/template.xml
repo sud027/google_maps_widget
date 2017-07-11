@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+    <t t-name="FieldGoogleMaps">
+        <div id="map" style="height: 500px;width: 800px;display: block!important"></div>
+    </t>
+
+    <t t-name="UpdateButton">
+        <button id="update_button" class="btn-info">Update</button>
+    </t>
+
+</template>
